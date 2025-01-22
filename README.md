@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Aditya Kumar, a Mechanical Engineering student at IIT Jodhpur 🚀.
 
-<!--
-**ioTa03/ioTa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🔧 Mechanical Engineer blending **computer science**, **machine learning**, and **simulation**.
+- 📘 Proficient in: `Python`, `C++`, `TypeScript`, `CFD`, and `CAD software`.
+- 🌍 Interested in sustainable energy, robotics, and AI.
 
-Here are some ideas to get you started:
+### 🛠️ My Tools & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F58524?style=flat&logo=autodesk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- [**Automatic Minesweeper Solver**](https://github.com/username/minesweeper-solver): Innovative mine probability suggester with a real-time UI.
+- [**Data-Driven Fluid Analysis**](https://github.com/username/fluid-analysis): ML-assisted analysis of fluid dynamics for simulation acceleration.
+
+### 📈 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-kumar&show_icons=true&theme=radical)
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-kumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aditya.me-FF5722?style=flat&logo=firefox-browser)](https://aditya.me)
+
+---
+✨ *Let's innovate together!* ✨
